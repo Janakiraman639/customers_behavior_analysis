@@ -137,6 +137,7 @@ Contributions, suggestions, and feedback are welcome!
 
 📬 Contact
 
-For queries or collaboration, reach out via LinkedIn or GitHub Issues.
-janakiramana639@gmail.com
+For queries or collaboration, reach out via LinkedIn or Gmail.
+✉ Gmail : janakiramana639@gmail.com
+
 
