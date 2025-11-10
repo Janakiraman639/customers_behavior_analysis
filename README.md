@@ -2,6 +2,7 @@
 Data Analytics Project Showcasing Customer Behavior Analysis  Using Python , Sql and Powerbi.
 
 📊 Project Title: Customer Behavior Data Analytics Project
+
 📁 Overview
 
 This project focuses on end-to-end Data Analytics — starting from data loading and cleaning, performing Exploratory Data Analysis (EDA), running SQL queries for deeper insights, and creating an interactive Power BI dashboard. Additionally, a summary report and presentation (created using Gamma) are included to showcase findings in a business-friendly format.
