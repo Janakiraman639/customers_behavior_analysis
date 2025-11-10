@@ -83,6 +83,7 @@ Report: Summarized methodology, insights, and recommendations
 Presentation: Created using Gamma to explain findings for non-technical stakeholders
 
 📊 Dashboard Snapshot
+
 <img width="1365" height="745" alt="Screenshot 2025-11-10 205616" src="https://github.com/user-attachments/assets/3e639f2e-6ecb-4a88-ad22-5bad11708593" />
 ✅ Key Results & Insights
 
