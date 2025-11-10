@@ -121,6 +121,7 @@ Open .pbix file in Power BI to view the dashboard
 Check /reports and /presentation folders for report & PPT
 
 📂 Project Structure
+
 project-folder/
 │── data/                  # Raw & cleaned dataset (avoid uploading sensitive data)
 │── notebooks/             # Python EDA notebook
